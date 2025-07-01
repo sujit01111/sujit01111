@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on QuikSync **NIS Statement Generation System**
 
-- 🌱 I’m currently learning **Odisha**
+- 🌱 I’m currently leaving **Odisha**
 
 - 💬 Ask me about **Ask me about full-stack web development using Angular, Node.js, and ASP.NET, or how to build clean, scalable applications with JavaScript, C#, or Java. I’m experienced in optimizing databases using SQL Server and MySQL, setting up Azure DevOps, and developing RESTful APIs. I also enjoy working on performance tuning, responsive UI design, and using Git and Linux tools to manage code efficiently. Whether it's backend logic or frontend interactivity, I love solving real-world problems through code.**
 
